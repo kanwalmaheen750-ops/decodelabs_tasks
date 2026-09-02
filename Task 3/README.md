@@ -1,14 +1,3 @@
-## Step 5 — Create `README.md`
-
-Create a file named:
-
-```text
-README.md
-```
-
-Copy and paste the following:
-
-````markdown
 # AI Book Recommendation System
 
 ## Project Overview
